@@ -3,14 +3,11 @@
 #include <math.h>
 
 using namespace std;
-
 int* ptr;
 int* dizi;
 int* usPtr;
-
 int intToBinary(int ,int*,int);
 void floatToBinary(float);
-void yazdir(int,int*,int*);
 
 int main() {
     float sayi,kalan;
@@ -93,10 +90,6 @@ void floatToBinary(float kalan) {
     }
         for (i=0; i<12; i++)
         {
-            if (ptr[i] !=0 && ptr[i]!=1)
-            {
-                break;
-            }
             cout<<ptr[i];
         }  
 }

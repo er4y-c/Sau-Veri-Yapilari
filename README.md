@@ -1,2 +1,2 @@
 # Sau-Veri-Yapilari
-Ödev 1) Kullanıcıdan alınan float tipindeki sayıyı ikilik tabana çevirir.
+Sakarya Universitesi Bilisim Sistemleri Muhendisligi "Veri yapilari" dersi odev cozumleri
